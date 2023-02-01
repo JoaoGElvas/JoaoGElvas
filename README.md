@@ -21,7 +21,6 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-elvas-206906232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/JoaoGElvas/JoaoGElvas/blob/output/github-contribution-grid-snake.svg)
 
 
 
