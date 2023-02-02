@@ -2,7 +2,6 @@
 
 - 📚 Sou um estudante de Engenharia de Software na UnB
 - ✨ Estou tirando a poeira do meu github
-- 😄 Pronomes: ele/dele
 ##
 
 <div>
