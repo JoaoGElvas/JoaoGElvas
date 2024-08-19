@@ -1,7 +1,6 @@
 ### Oie, eu sou o João Gabriel Elvas
 
 - 📚 Sou um estudante de Engenharia de Software na UnB
-- ✨ Estou tirando a poeira do meu github
 ##
 
 <div>
