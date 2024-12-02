@@ -1,21 +1,15 @@
-### Oie, eu sou o João Gabriel Elvas
+# Hi 👋, I'm João Gabriel Elvas!
+A passionate Frontend Developer from Brazil 🇧🇷
 
-- 📚 Sou um estudante de Engenharia de Software na UnB
-##
+#### 📫 Contact me: <a href="mailto:joaog.elvas@gmail.com">joaog.elvas@gmail.com</a>
+#### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaogelvas) 
 
-<div>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoGElvas&show_icons=true&theme=dark"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGElvas&layout=compact&theme=dark"/>
-</div>
+#### 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+#### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JoaoGElvas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=JoaoGElvas&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGElvas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Elvas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Elvas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Elvas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-
-##
-<div> 
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-elvas-206906232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
+[![](https://visitcount.itsvg.in/api?id=JoaoGElvas&icon=0&color=1)](https://visitcount.itsvg.in)
