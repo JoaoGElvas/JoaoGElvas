@@ -1,5 +1,5 @@
 # Hi 👋, I'm João Gabriel Elvas!
-A passionate Frontend Developer from Brazil 🇧🇷
+A passionate Web Developer from Brazil 🇧🇷
 
 #### 📫 Contact me: <a href="mailto:joaog.elvas@gmail.com">joaog.elvas@gmail.com</a>
 #### 🌐 Socials:
