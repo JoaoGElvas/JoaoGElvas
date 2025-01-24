@@ -4,7 +4,7 @@ A passionate Web Developer from Brazil 🇧🇷
 #### 📫 <a href="mailto:joaog.elvas@gmail.com">joaog.elvas@gmail.com</a>
 #### 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaogelvas) 
-[![Resume](https://img.shields.io/badge/Resume-blue)](https://docs.google.com/document/d/1vApoXVmBzBsBC4V1vu4W-85fEPzBAhqzMAIrqbpNiqE/edit?usp=sharing) 
+[![Resume](https://img.shields.io/badge/Resume-blue)](https://docs.google.com/document/d/1uvrzywgwgAMFTpP9stZ_OK5bvgG1FNCeI9DAMJVA76A/edit?usp=sharing) 
 
 
 #### 💻 Tech Stack:
